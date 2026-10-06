@@ -1,6 +1,6 @@
-# Gestión de Proyectos
+﻿# Gestión de Proyectos
 
-Trabajos de la materia Gestión de Proyectos de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: planificación ágil de un proyecto de datos, sobre el caso disparador "Clínica San Roque".
+Trabajos de la materia Gestión de Proyectos de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: planificación ágil de un proyecto de datos, sobre el caso disparador "Clínica San Roque".
 
 ## Caso de estudio
 
